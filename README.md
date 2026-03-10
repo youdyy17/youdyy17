@@ -1,5 +1,12 @@
 ## 👋 Hi, I’m @Ith Youdy
 
+## About Me
+Software Engineer junior Year | Build Web & Mobile Application | React, Dart,  Express & Laravel, Firebase
+
+I am a Fronted-Focus software engineer who is likely to design user-centric and solving complex Features. With years of experience at school, I completed a few schools' projects in building proposed business ideas high throughput in web and mobile applications.
+
+My focus is on creating responsive interfaces that not only look good but also solve real business problems. I have experience taking ideas from concept to deployment, ensuring performance and scalability.
+
 <!--
 **youdyy17/youdyy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
